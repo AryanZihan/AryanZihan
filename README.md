@@ -1,5 +1,7 @@
 # 💫 About Me:
-👋 Hi, I’m Aryan Zihan Khan<br>👀 I’m currently a CSE undergrad at BRAC University, Bangladesh<br>🌱 I’m currently learning Java, Python, CSS, JavaScript and GDScript<br>📫 You can reach me on my LinkedIn<br>⚡ Fun fact: I play 12 different musical instruments and record my own music
+👋 Hi, I’m Aryan Zihan Khan<br>👀 I’m currently a CSE undergrad at BRAC University, Bangladesh<br>🌱 I’m currently learning Java, Python, CSS, JavaScript and GDScript<br>📫 You can reach me on my LinkedIn<br>⚡ Fun fact: I play 12 different musical instruments and record my own music<br><br>As a Computer Science freshman at BRAC University, I’m passionate about merging creativity with technology. With hands-on experience in content writing and strategy, I’ve honed my ability to communicate complex ideas effectively and craft engaging narratives. My interest in UI/UX development drives me to design user-centered interfaces that are both functional and aesthetically pleasing.
+
+I am currently diving deep into Java programming, HTML, and CSS, aiming to build a strong foundation in software development. My goal is to integrate my content expertise with my technical skills to create seamless digital experiences. I'm always eager to learn, collaborate, and contribute to innovative projects that push the boundaries of technology.
 
 
 ## 🌐 Socials:
